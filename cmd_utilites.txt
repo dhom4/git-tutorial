@@ -1,0 +1,6 @@
+ranger
+trash
+htop
+ncdu
+gtypist
+dict
