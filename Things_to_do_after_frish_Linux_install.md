@@ -16,3 +16,7 @@ sudo apt install build-essential
 ```bash
 sudo apt install ruby-dev && sudo apt install libsqlite3-dev && sudo gem install timetrap
 ```
+11. download gnome pdf reader
+```bash
+sudo apt install evince
+```
