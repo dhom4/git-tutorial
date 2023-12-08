@@ -20,3 +20,5 @@ sudo apt install ruby-dev && sudo apt install libsqlite3-dev && sudo gem install
 ```bash
 sudo apt install evince
 ```
+12. set up ohmybash
+    https://github.com/ohmybash/oh-my-bash
